@@ -1,3 +1,2 @@
-orbs{
-snyk: "snyk/snyk@0.0.3"
-}
+orbs:
+  snyk: snyk/snyk@0.0.3
